@@ -1,0 +1,95 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#wallpaper4{
+	width: 2560px;
+	height: 1440px;
+	margin: 0;
+	padding: 0;
+	top: 4320px;
+	background-color: #000000;
+}
+#heading{
+	width: 2560px;
+	height: 50px;
+	position: absolute;
+	top:4280px;
+}
+#image1{
+	width: 444px;
+	height: 444px;
+	position: absolute;
+	left: 200px;
+	top: 4600px;
+}
+#gallery1{
+	width: 444px;
+	height: 444px;
+}
+#image2{
+	width: 444px;
+	height: 444px;
+	position: absolute;
+	left: 772px;
+	top: 4600px;
+}
+#gallery2{
+	width: 444px;
+	height: 444px;
+}
+#image3{
+	width: 444px;
+	height: 444px;
+	position: absolute;
+	left: 1344px;
+	top: 4600px;
+}
+#gallery3{
+	width: 444px;
+	height: 444px;
+}
+#image4{
+	width: 444px;
+	height: 444px;
+	position: absolute;
+	left: 1916px;
+	top: 4600px;
+}
+#gallery4{
+	width: 444px;
+	height: 444px;
+}
+#image5{
+	width: 444px;
+	height: 444px;
+	position: absolute;
+	left: 486px;
+	top: 5200px;
+}
+#gallery5{
+	width: 444px;
+	height: 444px;
+}
+#image6{
+	width: 444px;
+	height: 444px;
+	position: absolute;
+	left: 1058px;
+	top: 5200px;
+}
+#gallery6{
+	width: 444px;
+	height: 444px;
+}
+#image7{
+	width: 444px;
+	height: 444px;
+	position: absolute;
+	left: 1630px;
+	top: 5200px;
+}
+#gallery7{
+	width: 444px;
+	height: 444px;
+}

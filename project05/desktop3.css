@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#page3{
+	width: 2560px;
+	height: 1440px;
+	background-color: #f8a1be;
+	position: absolute;
+	top: 2880px;
+}
+#picture2{
+	width: 2038px;
+	height: 692px;
+	background-color: #f8a1be;
+	position: absolute;
+	top:0px;
+	left: 261px;
+}
+#cakes{
+	width: 2038px;
+	height: 692px;
+}
+#paragraph{
+	width: 2038px;
+	height: 628px;
+	position: absolute;
+	top:730px;
+	left: 261px;
+}

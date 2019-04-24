@@ -1,0 +1,53 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#page5{
+	width: 2560px;
+	height: 1440px;
+	background-color: #f8a1be;
+	position: absolute;
+	top: 5760px;
+}
+#header2{
+	width:414px;
+	height:500px;
+	position: absolute;
+	top:80px;
+	left: 1000px;
+}
+#outline2{
+	width:1856px;
+	height:903px;
+	position: absolute;
+	top:350px;
+	left:352px;
+}
+#c2{
+	width:600px;
+	height:600px;
+	position: absolute;
+	top:80px;
+	left: 200px;
+}
+#c3{
+	width:600px;
+	height:600px;
+	position: absolute;
+	top:450px;
+	left: 200px;
+}
+#minipacks{
+	width:800px;
+	height:900px;
+	position: absolute;
+	top:70px;
+	left: 1000px;
+}
+#regularpacks{
+	width:800px;
+	height:900px;
+	position: absolute;
+	top:470px;
+	left: 1000px;
+}

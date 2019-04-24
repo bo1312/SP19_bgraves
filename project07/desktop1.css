@@ -1,0 +1,118 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#wallpaper1{
+	width: 2560px;
+	height: 1440px;
+	margin: 0;
+	padding: 0;
+}
+#paper1{
+	width: 2560px;
+	height: 1440px;
+}
+#itlogo{
+	width: 600px;
+	height: 425px;
+	position: absolute;
+	left: 980px;
+	top: 980px;
+}
+#logo{
+	width: 600px;
+	height: 425px;
+}
+#face{
+	width: 65px;
+	height: 65px;
+	position: absolute;
+	left: 2301.5px;
+	top: 106.5px;
+}
+#book{
+	width: 65px;
+	height: 65px;
+}
+#insta{
+	width: 65px;
+	height: 65px;
+	position: absolute;
+	left: 2380.5px;
+	top: 106.5px;
+}
+#gram{
+	width: 65px;
+	height: 65px;
+}
+#twit{
+	width: 65px;
+	height: 65px;
+	position: absolute;
+	left: 2459.5px;
+	top: 106.5px;
+}
+#ter{
+	width: 65px;
+	height: 65px;
+}
+#trailer{
+	width: 128px;
+	height: 47.927px;
+	position: absolute;
+	left: 65px;
+	top: 98.037px;
+}
+#trailer p:hover{
+	cursor: pointer;
+	text-decoration-color: #D6230F;
+	transition: all 1s;
+}
+#synopsis{
+	width: 150px;
+	height: 47.927px;
+	position: absolute;
+	left: 193px;
+	top: 98.037px;
+}
+#synopsis p:hover{
+	cursor: pointer;
+	text-decoration-color: #D6230F;
+	transition: all 1s;
+}
+#gallery{
+	width: 132px;
+	height: 47.927px;
+	position: absolute;
+	left: 343px;
+	top: 98.037px;
+}
+#gallery p:hover{
+	cursor: pointer;
+	text-decoration-color: #D6230F;
+	transition: all 1s;
+}
+#cast{
+	width: 90.732px;
+	height: 47.927px;
+	position: absolute;
+	left: 475px;
+	top: 98.037px;
+}
+#cast p:hover{
+	cursor: pointer;
+	text-decoration-color: #D6230F;
+	transition: all 1s;
+}
+#critics{
+	width: 116px;
+	height: 47.927px;
+	position: absolute;
+	left: 565.732px;
+	top: 98.037px;
+}
+#critics p:hover{
+	cursor: pointer;
+	text-decoration-color: #D6230F;
+	transition: all 1s;
+}

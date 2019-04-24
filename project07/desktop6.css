@@ -1,0 +1,108 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#wallpaper6{
+	width: 2560px;
+	height: 1440px;
+	margin: 0;
+	padding: 0;
+	top: 7200px;
+	background-color: #000000;
+}
+#main3{
+	width: 214px;
+	height: 317px;
+	position: absolute;
+	left: 400px;
+	top: 7500px;
+}
+#act3{
+	width: 214px;
+	height: 317px;
+}
+#name4{
+	width: 800px;
+	height: 200px;
+	position: absolute;
+	left: 700px;
+	top: 7440px;
+}
+#role4{
+	width:800px;
+	height: 200px;
+	position: absolute;
+	left: 700px;
+	top: 7520px;
+}
+#para4{
+	width: 1400px;
+	height: 200px;
+	position: absolute;
+	left: 700px;
+	top: 7590px;
+}
+#main4{
+	width: 214px;
+	height: 317px;
+	position: absolute;
+	left: 400px;
+	top: 7867px;
+}
+#act4{
+	width: 214px;
+	height: 317px;
+}
+#name5{
+	width: 800px;
+	height: 200px;
+	position: absolute;
+	left: 700px;
+	top: 7807px;
+}
+#role5{
+	width:800px;
+	height: 200px;
+	position: absolute;
+	left: 700px;
+	top: 7887px;
+}
+#para5{
+	width: 1400px;
+	height: 200px;
+	position: absolute;
+	left: 700px;
+	top: 7967px;
+}
+#main5{
+	width: 214px;
+	height: 317px;
+	position: absolute;
+	left: 400px;
+	top: 8234px;
+}
+#act5{
+	width: 214px;
+	height: 317px;
+}
+#name6{
+	width: 800px;
+	height: 200px;
+	position: absolute;
+	left: 700px;
+	top: 8174px;
+}
+#role6{
+	width:800px;
+	height: 200px;
+	position: absolute;
+	left: 700px;
+	top: 8254px;
+}
+#para6{
+	width: 1400px;
+	height: 200px;
+	position: absolute;
+	left: 700px;
+	top: 8334px;
+}

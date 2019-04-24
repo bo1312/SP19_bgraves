@@ -1,0 +1,88 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#page4{
+	width: 2560px;
+	height: 1440px;
+	background-color: #a7dbe0;
+	position: absolute;
+	top: 4320px;
+}
+#header{
+	width:414px;
+	height:500px;
+	position: absolute;
+	top:80px;
+	left: 1000px;
+}
+#outline{
+	width:1856px;
+	height:903px;
+	position: absolute;
+	top:350px;
+	left:352px;
+}
+#vanilla{
+	width:600px;
+	height:300px;
+	position: absolute;
+	top:60px;
+	left:0px;
+}
+#chocolate{
+	width:600px;
+	height:300px;
+	position: absolute;
+	top:310px;
+	left:0px;
+}
+#brownie{
+	width:600px;
+	height:300px;
+	position: absolute;
+	top:600px;
+	left:0px;
+}
+#oreo{
+	width:600px;
+	height:300px;
+	position: absolute;
+	top:60px;
+	left:610px;
+}
+#dulce{
+	width:600px;
+	height:300px;
+	position: absolute;
+	top:310px;
+	left:610px;
+}
+#red{
+	width:600px;
+	height:300px;
+	position: absolute;
+	top:600px;
+	left:610px;
+}
+#time{
+	width:600px;
+	height:300px;
+	position: absolute;
+	top:60px;
+	left:1220px;
+}
+#strawberry{
+	width:600px;
+	height:300px;
+	position: absolute;
+	top:310px;
+	left:1220px;
+}
+#viva{
+	width:600px;
+	height:300px;
+	position: absolute;
+	top:600px;
+	left:1220px;
+}

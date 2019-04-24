@@ -1,0 +1,45 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#wallpaper2{
+	width: 2560px;
+	height: 1440px;
+	margin: 0;
+	padding: 0;
+	top: 1440px;
+	background-color: #000000;
+}
+#warner{
+	width: 641.92px;
+	height: 129.258px;
+	top: 2300px;
+	left: 959.04px;
+	position: absolute;
+}
+#bros{
+	width: 641.92px;
+	height: 129.258px;
+}
+#video{
+	width: 1747px;
+	height: 680px;
+	top: 1600px;
+	left: 406.5px;
+	position: absolute;
+	background-color: #808080;
+}
+#privacy{
+	width: 665px;
+	height: 63.5px;
+	top: 2450px;
+	left: 406.5px;
+	position: absolute;
+}
+#terms{
+	width: 665px;
+	height: 63.5px;
+	top: 2550px;
+	left: 406.5px;
+	position: absolute;
+}

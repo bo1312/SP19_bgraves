@@ -1,0 +1,168 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#wallpaper{
+	width: 2560px;
+	height: 1440px;
+	background-color: #f8f1d7;
+	margin: 0;
+	padding: 0;
+}
+#background{
+	width: 1112.727px;
+	height: 1440px;
+	background-color: #f2eded;
+	position: absolute;
+	top: 0;
+	left:723.273px;
+	margin: 0 auto;
+}
+#wall{
+	width: 2560px;
+	height: 1440px;
+}
+#back{
+	width: 1112.727px;
+	height: 1440px;
+}
+#toptier{
+	width: 1073px;
+	height: 410.826px;
+	position: absolute;
+	top: 55px;
+	left: 20px;
+	margin: 0 auto;
+}
+#mask{
+	width: 1073px;
+	height: 410.826px;
+}
+#intro{
+    width:420px;
+    height:94px;
+    position: absolute;
+    top:430px;
+    left:355px;
+    margin:0 auto;
+}
+#header{
+    width:678.667px;
+    height:74.454px;
+    position: absolute;
+    top:480px;
+    left:220px;
+    margin:0 auto;
+}
+#underline{
+    width:606px;
+    height:334.957px;
+    position: absolute;
+    top:540px;
+    left:260px;
+    margin:0 auto;
+}
+#line{
+	width: 606px;
+	height: 334.957px;
+}
+#date{
+    width:549px;
+    height:307px;
+    position: absolute;
+    top:740px;
+    left:280px;
+    margin:0 auto;
+}
+#text1{
+    width:549px;
+    height:307px;
+    position: absolute;
+    top:840px;
+    left:280px;
+    margin:0 auto;
+}
+#text2{
+    width:549px;
+    height:307px;
+    position: absolute;
+    top:880px;
+    left:280px;
+    margin:0 auto;
+}
+#text3{
+    width:549px;
+    height:307px;
+    position: absolute;
+    top:920px;
+    left:280px;
+    margin:0 auto;
+}
+#text4{
+    width:549px;
+    height:307px;
+    position: absolute;
+    top:960px;
+    left:280px;
+    margin:0 auto;
+}
+#text5{
+    width:549px;
+    height:307px;
+    position: absolute;
+    top:1040px;
+    left:280px;
+    margin:0 auto;
+}
+#text6{
+    width:549px;
+    height:307px;
+    position: absolute;
+    top:1080px;
+    left:280px;
+    margin:0 auto;
+}
+#text7{
+    width:549px;
+    height:307px;
+    position: absolute;
+    top:1200px;
+    left:280px;
+    margin:0 auto;
+}
+#ad2{
+    width:285px;
+    height:61.583px;
+    position: absolute;
+    top:1300px;
+    left:450px;
+    margin:0 auto;
+}
+#pic2{
+    width: 285px;
+    height: 61.583px;
+}
+#ad1{
+    width:285px;
+    height:61.583px;
+    position: absolute;
+    top:1300px;
+    left:110px;
+    margin:0 auto;
+}
+#pic1{
+    width: 285px;
+    height: 61.583px;
+}
+#ad3{
+    width:285px;
+    height:61.583px;
+    position: absolute;
+    top:1300px;
+    left:750px;
+    margin:0 auto;
+}
+#pic3{
+    width: 285px;
+    height: 61.583px;
+}

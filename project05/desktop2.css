@@ -1,0 +1,51 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#page2{
+	width: 2560px;
+	height: 1440px;
+	background-color: #f8a1be;
+	position: absolute;
+	top:1440px;
+}
+#picture{
+	width: 2560px;
+	height: 1440px;
+}
+
+#main{
+	width: 1500px;
+	height: 500px;
+	position: absolute;
+	top:370px;
+	left: 40pc;
+}
+#place{
+	width: 600px;
+	height: 200px;
+	position: absolute;
+	top:40px;
+	left: 60px;
+}
+#yum{
+	width: 500px;
+	height: 200px;
+	position: absolute;
+	top:700px;
+	left: 300;
+}
+#award{
+	width: 700px;
+	height: 300px;
+	position: absolute;
+	top:250px;
+	right: 80px;
+}
+#wait{
+	width: 700px;
+	height: 400px;
+	position: absolute;
+	top:800px;
+	right: 70px;
+}

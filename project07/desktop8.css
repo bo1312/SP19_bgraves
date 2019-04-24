@@ -1,0 +1,74 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#wallpaper8{
+	width: 2560px;
+	height: 1440px;
+	margin: 0;
+	padding: 0;
+	top: 10080px;
+	background-color: #000000;
+}
+#crit{
+	width: 2560px;
+	height: 50px;
+	position: absolute;
+	top:10020px;
+}
+#crit1{
+	width: 2160px;
+	height: 50px;
+	position: absolute;
+	top:10330px;
+	left: 300px;
+}
+#by1{
+	width: 1500px;
+	height: 50px;
+	position: absolute;
+	top:10410px;
+	left: 400px;
+}
+#crit2{
+	width: 2160px;
+	height: 50px;
+	position: absolute;
+	top:10550px;
+	left: 300px;
+}
+#by2{
+    width: 1500px;
+	height: 50px;
+	position: absolute;
+	top:10680px;
+	left: 400px;
+}
+#crit3{
+	width: 2160px;
+	height: 50px;
+	position: absolute;
+	top:10820px;
+	left: 300px;
+}
+#by3{
+	width: 1500px;
+	height: 50px;
+	position: absolute;
+	top:10960px;
+	left: 400px;
+}
+#crit4{
+	width: 1500px;
+	height: 50px;
+	position: absolute;
+	top:11100px;
+	left: 300px;
+}
+#by4{
+	width: 1500px;
+	height: 50px;
+	position: absolute;
+	top:11240px;
+	left: 400px;
+}

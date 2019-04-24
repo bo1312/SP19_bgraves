@@ -1,0 +1,74 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#wallpaper3{
+	width: 2560px;
+	height: 1440px;
+	margin: 0;
+	padding: 0;
+	top: 2880px;
+	background-color: #000000;
+}
+#ball{
+	width: 590.228px;
+	height: 1440px;
+	position: absolute;
+	left: 0px;
+}
+#oon{
+	width: 590.228px;
+	height: 1440px;
+}
+#poster{
+	width: 454px;
+	height: 679px;
+	position: absolute;
+	left: 650px;
+	top: 3280px;
+}
+#post{
+	width: 454px;
+	height: 679px;
+}
+#header{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 650px;
+	top: 2900px;
+}
+#date{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	left: 730px;
+	top: 2970px;
+}
+#info{
+	width: 800px;
+	height:100px;
+	position: absolute;
+	left: 650px;
+	top: 3060px;
+}
+#subheader{
+	width: 200px;
+	height: 100px;
+	position: absolute;
+	left: 1200px;
+	top: 3200px;
+}
+#summary{
+	width: 1100px;
+	height: 800px;
+	position: absolute;
+	left: 1200px;
+	top: 3350px;
+}
+#soundtrack{
+	width: 2560px;
+	height: 100px;
+	position: absolute;
+	top:4180px;
+}

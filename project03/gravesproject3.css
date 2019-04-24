@@ -1,0 +1,69 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+#main{
+    width:1900px;
+    height:1900px;
+    background-color:#f8f1d7;
+    margin:0;
+    padding:0;
+}
+#banner{
+    width:1900px;
+    height:200px;
+    background-color:#F2EDED;
+    position:absolute;
+    top:0;
+    margin: 0 auto;
+
+}
+#image{
+	width:700px;
+    height:700px;
+    background-color:#F2EDED;
+    position: relative;
+    top:300px;
+    padding-top:0px;
+
+
+}
+#imagery{
+	width:700px;
+	height:700px;
+}
+#write{
+    width:700px;
+    height:600px;
+    background-color:#f8f1d7;
+    position: absolute;
+    top:250px;
+    left:900px;
+    margin:0 auto;
+}
+#box{
+    width:300px;
+    height:100px;
+    background-color:#000000;
+    position: absolute;
+    top:800px;
+    left:900px;
+    margin:0 auto;
+
+}
+#box p{   /*family hierchary edit*/
+    font-size:2em; 
+}
+#banner p{ /*family hierchary edit*/
+    font-size:5em;
+}
+#banner p{ /*family hierchary edit*/
+    font-family: baskerville, didot, serif;
+}
+#box p{  /*family hierchary edit*/
+    color: white;
+}
+#write p{ /*family hierchary edit*/
+    color: black;
+}
